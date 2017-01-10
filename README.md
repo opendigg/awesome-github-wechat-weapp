@@ -1,15 +1,14 @@
 # awesome-github-wechat-weapp 
 # 内容 
 - [Demo](#Demo) 
+- [开发框架](#开发框架) 
 - [UI组件](#UI组件) 
-- [其他](#其他) 
 - [实用库](#实用库) 
 - [开发工具](#开发工具) 
-- [开发框架](#开发框架) 
+- [其他](#其他) 
 - [服务端](#服务端)
 - [项目实例](#项目实例)
 ### Demo 
-
 - [weapp-demo ★689](https://github.com/zce/weapp-demo) - 仿豆瓣电影微信小程序 
 - [wechat-weapp-gank ★532](https://github.com/lypeer/wechat-weapp-gank) - Gank微信小程序 
 - [SmallAppForQQ ★447](https://github.com/xiehui999/SmallAppForQQ) - 微信小程序高仿QQ应用 
