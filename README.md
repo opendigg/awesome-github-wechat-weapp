@@ -1,5 +1,6 @@
-# awesome-github-wechat-weapp 
-# 内容 
+awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并维护的微信小程序开源项目库集合。我们会定期同步[OpenDigg](http://www.opendigg.com/tags/wechat-app)上的项目到这里，也欢迎各位[提交项目](https://github.com/opendigg/opending-share-projects)给我们。
+
+## 内容 
 
 - [UI组件](#UI组件) 
 - [开发框架](#开发框架) 
