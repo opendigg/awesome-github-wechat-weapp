@@ -7,7 +7,6 @@
 - [开发工具](#开发工具) 
 - [服务端](#服务端) 
 - [其他](#其他) 
-- [项目实例](#项目实例) 
 - [Demo](#Demo) 
 
 ###UI组件 
@@ -57,10 +56,6 @@
 
 - [wxapp-redux-starter ★49](https://github.com/qixiuss/wxapp-redux-starter) - 提供方便快捷的微信小程序开发环境 
 
-###项目实例 
-
-- [wecqupt ★234](https://github.com/lanshan-studio/wecqupt) - 在微信内被便捷地获取和传播 
-
 ###Demo 
 
 - [weapp-demo ★689](https://github.com/zce/weapp-demo) - 仿豆瓣电影微信小程序 
@@ -68,6 +63,7 @@
 - [SmallAppForQQ ★447](https://github.com/xiehui999/SmallAppForQQ) - 微信小程序高仿QQ应用 
 - [wechat-weapp-mall ★412](https://github.com/liuxuanqiang/wechat-weapp-mall) - 微信小程序移动端商城 
 - [weapp-wechat-zhihu ★280](https://github.com/RebeccaHanjw/weapp-wechat-zhihu) - 微信中的知乎 
+- [wecqupt ★234](https://github.com/lanshan-studio/wecqupt) - 在微信内被便捷地获取和传播 
 - [wechat-v2ex ★164](https://github.com/jectychen/wechat-v2ex) - 简单的v2ex微信小程序 
 - [weChatApp-Run ★146](https://github.com/alanwangmodify/weChatApp-Run) - 跑步微信小程序Demo 
 - [wechat-weapp-taobao ★140](https://github.com/ChangQing666/wechat-weapp-taobao) - 微信小程序demo 仿手机淘宝 
