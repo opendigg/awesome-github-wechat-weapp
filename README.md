@@ -71,6 +71,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [weapp-weipiao ★133](https://github.com/wangmingjob/weapp-weipiao) - 微信小程序-微票 
 - [wechat-app-zhihudaily ★132](https://github.com/myronliu347/wechat-app-zhihudaily) - 微信小程序-知乎日报 
 - [fenda-mock ★123](https://github.com/davedavehong/fenda-mock) - 使用微信小程序实现分答这款APP的基础功能 
+- [wechat_mall_applet ★106](https://github.com/bayetech/wechat_mall_applet) - 巴爷微信商城的小程序版本 
 - [weapp-boilerplate ★105](https://github.com/zce/weapp-boilerplate) - 一个为微信小程序开发准备的基础骨架 
 - [腾讯云微信小程序 ★103](https://github.com/tencentyun/weapp-client-demo) - 一站式解决方案客户端示例 
 - [wechat-app-music ★85](https://github.com/eyasliu/wechat-app-music) - 微信小程序： 音乐播放器 
@@ -83,7 +84,6 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [wechat-weapp-movie ★54](https://github.com/yesifeng/wechat-weapp-movie) - 微信小程序 - 电影推荐 
 - [Artand ★53](https://github.com/SuperKieran/weapp-artand) - 微信小程序 
 - [wepy-wechat-demo ★51](https://github.com/wepyjs/wepy-wechat-demo) - wepy仿微信聊天界面 
-- [wechat_mall_applet ★50](https://github.com/bayetech/wechat_mall_applet) - 巴爷微信商城的简单版本 
 - [wechat-chat ★44](https://github.com/ericzyh/wechat-chat) - 微信小程序版聊天室 
 - [BearDiary ★41](https://github.com/harveyqing/BearDiary) - 微信小程序之小熊の日记 
 - [wechat-weapp-demo ★41](https://github.com/SeptemberMaples/wechat-weapp-demo) - 一个简单的微信小程序购物车DEMO 
