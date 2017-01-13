@@ -1,4 +1,4 @@
-awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并维护的微信小程序开源项目库集合。我们会定期同步[OpenDigg](http://www.opendigg.com/tags/wechat-app)上的项目到这里，也欢迎各位[提交项目](https://github.com/opendigg/opending-share-projects)给我们。 
+awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并维护的微信小程序开源项目库集合。我们会定期同步[OpenDigg](http://www.opendigg.com/tags/wechat-app)上的项目到这里，也欢迎各位[提交项目](https://github.com/opendigg/opending-share-projects)给我们。 这是我们推出的第一个awesome集合，后续还会推出其他awesome集合，欢迎follow我们。
 
 如果收录的项目有错误，可以通过[issue](https://github.com/opendigg/awesome-github-wechat-weapp/issues)反馈给我们。这里的项目Star数不是实时更新的，一般是一周更新一次。 
 
