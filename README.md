@@ -154,5 +154,3 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [liwushuoapp](https://github.com/chongbenben/liwushuoapp) ★10 - 微信小程序开发的App 
 - [weapp-LeanCloud](https://github.com/bestony/weapp-LeanCloud) ★10 - LeanCloud 的微信小程序用户登陆Demo 
 - [labrador_mobx_example](https://github.com/spacedragon/labrador_mobx_example) ★1 - 基于Labrador和mobx构建的小程序开发demo 
-
-Some errors occurred on this page. Click to see details.
