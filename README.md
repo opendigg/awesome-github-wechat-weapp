@@ -54,7 +54,6 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 
 ###开发工具 
 
-- [weapp-ide-crack](https://github.com/gavinkwoe/weapp-ide-crack) ★4465 - 微信小程序IDE及破解攻略 
 - [wept](https://github.com/chemzqm/wept) ★948 - 实时微信小程序开发工具 
 - [weapp-quick](https://github.com/phodal/weapp-quick) ★306 - “微信Web开发者”拷贝工具 
 - [Wxapp.vim](https://github.com/chemzqm/wxapp.vim) ★182 - 微信小程序开发 Vim 插件 
