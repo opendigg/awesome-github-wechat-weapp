@@ -35,6 +35,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [citySelect](https://github.com/chenjinxinlove/citySelect) ★35 - 微信小程序城市选择器 
 - [WeiXinProject](https://github.com/lidong1665/WeiXinProject) ★34 - 列表的上拉刷新和上拉加载 
 - [wepy-com-charts](https://github.com/CalvinHong/wepy-com-charts) ★18 - 微信小程序wepyjs图表控件 
+- [we-cropper](https://github.com/dlhandsome/we-cropper) ★17 - 微信小程序图片裁剪工具
 - [wxapp-lock](https://github.com/demi520/wxapp-lock) ★12 - 微信小程序手势解锁 
 - [wxTabs](https://github.com/hss01248/wxTabs) ★11 - 微信小程序的多tab实现 
 
