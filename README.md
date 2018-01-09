@@ -122,6 +122,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [weapp-demo-breadtrip](https://github.com/romoo/weapp-demo-breadtrip) ★62 - 基于面包旅行 API 制作的微信小程序示例 
 - [wechatapp-news-reader](https://github.com/vace/wechatapp-news-reader) ★59 - 新闻阅读器 
 - [wechat-weapp-demo](https://github.com/SeptemberMaples/wechat-weapp-demo) ★58 - 一个简单的微信小程序购物车DEMO 
+- [weapp-ssha](https://github.com/yaoshanliang/weapp-ssha) ★58 - 企业宣传小程序
 - [weapp-newsapp](https://github.com/hijiangtao/weapp-newsapp) ★57 - 微信小程序-公众号热门文章信息流 
 - [weapp-girls](https://github.com/litt1e-p/weapp-girls) ★56 - 通过Node.js实现的妹子照片爬虫微信小程序 
 - [wechat-app-flexlayout](https://github.com/hardog/wechat-app-flexlayout) ★55 - 从FlexLayout布局开始学习微信小程序 
@@ -162,4 +163,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [wejoke](https://github.com/zszdevelop/wejoke) ★11 - 微笑话微信小程序 
 - [liwushuoapp](https://github.com/chongbenben/liwushuoapp) ★11 - 微信小程序开发的App 
 - [weapp-sportsnews](https://github.com/havenxie/weapp-sportsnews) ★8 - 体育新闻微信小程序 
-- [labrador_mobx_example](https://github.com/spacedragon/labrador_mobx_example) ★4 - 基于Labrador和mobx构建的小程序开发demo 
+- [labrador_mobx_example](https://github.com/spacedragon/labrador_mobx_example) ★4 - 基于Labrador和mobx构建的小程序开发demo
