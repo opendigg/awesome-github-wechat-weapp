@@ -43,6 +43,8 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [wepy](https://github.com/wepyjs/wepy) ★1325 - 小程序组件化开发框架 
 - [Labrador](https://github.com/maichong/labrador) ★785 - 微信小程序模块化开发框架 
 - [wxapp-devFrame](https://github.com/hss01248/wxapp-devFrame) ★49 - 小程序基本的开发框架 
+- [weappx](https://github.com/tolerance-go/weappx) - 基于 redux 的数据层管理框架
+- [weapp-start](https://github.com/tolerance-go/weapp-start) - 基于插件机制的开发脚手架，改善原生小程序开发体验
 
 ## 实用库 
 
