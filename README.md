@@ -57,6 +57,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [wxapp-jsapi](https://github.com/baidumapapi/wxapp-jsapi) ★49 - 百度地图微信小程序 
 - [wxstream](https://github.com/wpcfan/wxstream) ★19 - 微信小程序的响应式编程类库封装 
 - [upyun-wxapp-sdk](https://github.com/upyun/upyun-wxapp-sdk) ★16 - 又拍云微信小程序 
+- [socket.io-mp-client](https://github.com/cytle/socket.io-mp-client) ★32 - 小程序socket.io客户端, 支持微信小程序、支付宝小程序
 
 ## 开发工具 
 
@@ -67,6 +68,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [miniapps](https://github.com/DDFE/miniapps) ★131 - 小程序项目脚手架工具 
 - [Matchmaker](https://github.com/lypeer/Matchmaker) ★107 - 专为微信小程序开发的插件 
 - [wecos](https://github.com/tencentyun/wecos) ★64 - 微信小程序 COS 瘦身解决方案 
+- [wechat_web_devtools](https://github.com/cytle/wechat_web_devtools) ★779 - 微信开发者工具(微信小程序)linux完美支持
 
 ## 服务端 
 
