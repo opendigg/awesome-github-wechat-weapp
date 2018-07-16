@@ -83,6 +83,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [豆瓣电影项目](https://github.com/songhaoreact/豆瓣电影项目) ★118 - 微信小程序豆瓣电影项目 
 - [miemie](https://github.com/airingursb/miemie) ★28 - 微信小程序咩咩单词 
 - [hellspawn-hunter-weapp](https://github.com/bluedazzle/hellspawn-hunter-weapp) ★25 - 阴阳师妖怪搜索小程序 
+- [有趣视频](https://github.com/terryso/youqu) ★1 - 基于WePY开发, 模仿开眼App的一个视频小程序 
 
 ## Demo 
 
