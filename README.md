@@ -163,3 +163,4 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [liwushuoapp](https://github.com/chongbenben/liwushuoapp) ★11 - 微信小程序开发的App 
 - [weapp-sportsnews](https://github.com/havenxie/weapp-sportsnews) ★8 - 体育新闻微信小程序 
 - [labrador_mobx_example](https://github.com/spacedragon/labrador_mobx_example) ★4 - 基于Labrador和mobx构建的小程序开发demo 
+- [SubwayRoutineMP](https://github.com/WarpPrism/SubwayRoutineMP) ★1 - 【东京首尔曼谷新加坡巴黎地铁线路图🚄】 
