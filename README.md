@@ -36,7 +36,8 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [wepy-com-charts](https://github.com/CalvinHong/wepy-com-charts) ★20 - 微信小程序wepyjs图表控件 
 - [WechatLoading](https://github.com/qq273681448/WechatLoading) ★14 - 加载框布局LoadingView 
 - [wxTabs](https://github.com/hss01248/wxTabs) ★13 - 微信小程序的多tab实现 
-- [wxapp-lock](https://github.com/demi520/wxapp-lock) ★12 - 微信小程序手势解锁 
+- [wxapp-lock](https://github.com/demi520/wxapp-lock) ★12 - 微信小程序手势解锁
+- [wx-pulltorefresh-view](https://github.com/zhongxuqi/wx-pulltorefresh-view) - 简单灵活的下拉上拉刷新组件，支持微信小程序
 
 ## 开发框架 
 
@@ -56,7 +57,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [wxapp-google-analytics](https://github.com/rchunping/wxapp-google-analytics) ★59 - 让微信小程序支持谷歌统计 
 - [wxapp-jsapi](https://github.com/baidumapapi/wxapp-jsapi) ★49 - 百度地图微信小程序 
 - [wxstream](https://github.com/wpcfan/wxstream) ★19 - 微信小程序的响应式编程类库封装 
-- [upyun-wxapp-sdk](https://github.com/upyun/upyun-wxapp-sdk) ★16 - 又拍云微信小程序 
+- [upyun-wxapp-sdk](https://github.com/upyun/upyun-wxapp-sdk) ★16 - 又拍云微信小程序
 
 ## 开发工具 
 
