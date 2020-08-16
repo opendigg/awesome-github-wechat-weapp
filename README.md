@@ -83,6 +83,7 @@ awesome-github-wechat-weapp 是由[OpenDigg](http://www.opendigg.com/)整理并�
 - [豆瓣电影项目](https://github.com/songhaoreact/豆瓣电影项目) ★118 - 微信小程序豆瓣电影项目 
 - [miemie](https://github.com/airingursb/miemie) ★28 - 微信小程序咩咩单词 
 - [hellspawn-hunter-weapp](https://github.com/bluedazzle/hellspawn-hunter-weapp) ★25 - 阴阳师妖怪搜索小程序 
+- [元素周期表:专业版](https://github.com/wilhantian/periodic-table) ★25 - 精美的化学元素周期表小程序
 
 ## Demo 
 
